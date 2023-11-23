@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calvinchai&layout=compact&hide=roff,css,html)
 
 <img src="https://github-readme-stats.vercel.app/api?username=calvinchai&show_icons=true&hide_border=true&count_private=true&icon_color=fad000&theme=transparent" alt="Calvin Chai's GitHub Stats">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calvinchai&layout=compact&hide=roff,css,html)
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=calvinchai&" alt="calvinchai" />
 <!--
