@@ -2,6 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calvinchai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<h3 align="left">Github Stats </h3>
 <img src="https://github-readme-stats.vercel.app/api?username=calvinchai&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Calvin Chai's GitHub Stats">
 
 <h3 align="left">Streak</h3>
